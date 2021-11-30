@@ -1,0 +1,4977 @@
+[
+  {
+    "Standard Name": "ACM Conference on Applications,  Technologies,  Architectures, and  Protocols for Computer Communication",
+    "Acronym": "SIGCOMM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Conference on Computer and  Communications  Security",
+    "Acronym": "CCS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Conference on Computer Supported  Cooperative Work",
+    "Acronym": "CSCW",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Conference on Embedded  Networked Sensor  Systems",
+    "Acronym": "SENSYS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Conference on Embedded  Software",
+    "Acronym": "EMSOFT",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Conference on Hypertext and  Hypermedia",
+    "Acronym": "Hypertext",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Conference on Object Oriented  Programming Systems  Languages  and  Applications",
+    "Acronym": "OOPSLA",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Creativity and  Cognition",
+    "Acronym": "CC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM International  Conference on Emerging Networking Experiments  and  Technologies",
+    "Acronym": "CoNEXT",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM International  Conference on Information  and  Knowledge  Management",
+    "Acronym": "CIKM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM International  Conference on Knowledge  Discovery and  Data  Mining",
+    "Acronym": "SIGKDD",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM International  Conference on Mobile  Computing and  Networking",
+    "Acronym": "MOBICOM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM International  Conference on Research  and  Development  in  Information  Retrieval",
+    "Acronym": "SIGIR",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM International  Conference on Supercomputing",
+    "Acronym": "ICS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM International  Symposium  on Computer Architecture",
+    "Acronym": "ISCA",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM International  Symposium  on High  Performance Distributed  Computing",
+    "Acronym": "HPDC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Multimedia",
+    "Acronym": "ACMMM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM SIG International  Conference on Computer Graphics  and  Interactive  Techniques",
+    "Acronym": "SIGGRAPH",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM SIG on Computer and  Communications  Metrics and  Performance",
+    "Acronym": "SIGMETRICS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM SIGCOMM Internet  Measurement  Conference",
+    "Acronym": "ACM IMC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM SIGMOD-SIGACT-SIGART Conference on Principles  of Database  Systems",
+    "Acronym": "PODS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM SIGOPS Symposium  on Operating  Systems  Principles",
+    "Acronym": "SOSP",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM SIGPLAN Conference on Languages,  Tools,  and  Compilers  for Embedded  Systems",
+    "Acronym": "LCTES",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM SIGSOFT International  Symposium  on the Foundations  of Software Engineering",
+    "Acronym": "FSE",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Special  Interest  Group on Computer Science  Education  Conference",
+    "Acronym": "SIGCSE",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Special  Interest  Group on Management  of Data  Conference",
+    "Acronym": "SIGMOD",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Symposium  of Mobile  and  Ad Hoc Computing",
+    "Acronym": "MOBIHOC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Symposium  on Computational  Geometry",
+    "Acronym": "SCG",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Symposium  on Principles  of Distributed  Computing",
+    "Acronym": "PODC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Symposium  on Theory of Computing",
+    "Acronym": "STOC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Symposium  on User  Interface  Software and  Technology",
+    "Acronym": "UIST",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Virtual  Reality  Software and  Technology",
+    "Acronym": "VRST",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM Workshop  on Hot Topics  in  Networks",
+    "Acronym": "HOTNETS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM/IEEE International  Conference on Modelling,  Analysis  and  Simulation  of Wireless  and  Mobile  Systems",
+    "Acronym": "MSWIM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM/IEEE Supercomputing  Conference",
+    "Acronym": "SC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM/IFIP/USENIX International  Middleware  Conference",
+    "Acronym": "Middleware",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM/SIAM Symposium  on Discrete  Algorithms",
+    "Acronym": "SODA",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM/SPIE Multimedia  Computing and  Networking",
+    "Acronym": "MMCN",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM-SIGACT Symposium  on Principles  of Programming Languages",
+    "Acronym": "POPL",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM-SIGPLAN Conference on Programming Language  Design  and  Implementation",
+    "Acronym": "PLDI",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ACM-SIGRAPH Interactive  3D Graphics",
+    "Acronym": "I3DG",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Advances  in  Cryptology",
+    "Acronym": "CRYPTO",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Advances  in  Modal  Logic",
+    "Acronym": "AiML",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Advances  in  Neural  Information  Processing  Systems",
+    "Acronym": "NIPS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Algorithmic  Learning  Theory",
+    "Acronym": "ALT",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Algorithms  and  Data  Structures Symposium  (was  Workshop  on Algorithms  and  Data  Structures)",
+    "Acronym": "WADS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "American  Association  of Cost Engineers  Annual  Meeting",
+    "Acronym": "AACE",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "American  Society for Heating,  Refrigeration  and  Air Conditioning",
+    "Acronym": "ASHRAE",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "American  Society of Mechanical  Engineering",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Americas  Conference on Information  Systems",
+    "Acronym": "AMCIS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Annual  Computer Security Applications  Conference",
+    "Acronym": "ACSAC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Annual  Conference of the Australian  Acoustical  Society",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Annual  Conference of the Cognitive Science  Society",
+    "Acronym": "CogSci",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Annual  Conference of the International  Speech  Communication  Association  (was  Eurospeech)",
+    "Acronym": "Interspeech",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Annual  Conference on Computational  Learning  Theory",
+    "Acronym": "COLT",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Annual  Conference on Innovation  and  Technology in  Computer Science  Education",
+    "Acronym": "ITiCSE",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Annual  International  Conference of the IEEE Engineering  in  Medicine  and  Biology  Society",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Annual  Water Distribution  Systems  Analysis  Conference, WDSA 2008",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "AoM Organizational  Communication  and  Information  Systems",
+    "Acronym": "OCIS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Application  of Computers and  Operations  Research  in  the Minerals  Industries",
+    "Acronym": "APCOMin",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Architectural Support for Programming Languages  and  Operating  Systems",
+    "Acronym": "ASPLOS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Artificial  Intelligence  in  Medicine",
+    "Acronym": "AIIM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Artificial  Intelligence  in  Medicine  in  Europe",
+    "Acronym": "AIME",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "ASCCS International  Conference on Steel-Concrete Composite  and  Hybrid Structures",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Asian  Congress  of Fluid  Mechanics",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Asian-Pacific  Conference on Computational  Mechanics",
+    "Acronym": "APCOM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Asian-Pacific  conferences  on unsaturated  soils",
+    "Acronym": "Unsat-Asian",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Conference on Engineering  Plasticity  and  Its  Applications",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Conference on Materials  Processing",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Aspect-Oriented  Software Development",
+    "Acronym": "AOSD",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Association  for Computer Aided  Design  in  Architecture (ACADIA) Conference",
+    "Acronym": "ACADIA",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Association  of Computational  Linguistics",
+    "Acronym": "ACL",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Association  of Researchers  in  Construction Management  Annual  Conference",
+    "Acronym": "ARCOM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "AUSIMM Orebody Modelling  and  Strategic Mine  Planning  Conference",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "AUSIMM Project Evaluation",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Australasian  Coasts  and  Ports Conference",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Australasian  Conference on Information  Systems",
+    "Acronym": "ACIS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Australasian  Congress  on Applied  Mechanics",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Australasian  Fluid  Mechanics  Conference",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Australasian  Housing  Researchers  Conference",
+    "Acronym": "AHRC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Australasian  Port and  Harbour Conference",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Australasian  Transport Research  Forum",
+    "Acronym": "ATRF",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Automated  Software Engineering  Conference",
+    "Acronym": "ASE",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Bluff  Body Aerodynamics  and  Applications",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "British  Computer Society Conference on Human-Computer Interaction",
+    "Acronym": "HCI",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "CAADFutures Biennial  conference",
+    "Acronym": "CAADFutures",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Centre for Asian  and  Middle  Eastern  Architecture conference",
+    "Acronym": "CAMEA",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "CIRP Life  Cycle Engineering  Conference",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Cognitive Science  Society Annual  Conference",
+    "Acronym": "CSSAC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Composite  Construction V, Kruger National  Park, South Africa, American  Society of Civil Engineers",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Computer Aided  Verification",
+    "Acronym": "CAV",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Computer Animation",
+    "Acronym": "CANIM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Computer Applications  in  The Mineral  Industries",
+    "Acronym": "APCOM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Computer Supported  Collaborative  Learning",
+    "Acronym": "CSCL",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Computers in  Cardiology",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Conference and  Symposium  of the International  Committee on Aeronautical  Fatigue",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Conference in  Uncertainty in  Artificial  Intelligence",
+    "Acronym": "UAI",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Conference on Innovative  Data  Systems  Research",
+    "Acronym": "CIDR",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Conference on Integer  Programming and  Combinatorial  Optimization",
+    "Acronym": "IPCO",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Conference on Natural  Language  Learning",
+    "Acronym": "CoNLL",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Conference on Railway  Engineering",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Conference on the Quality  of Software Architectures",
+    "Acronym": "QoSA",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Congress  of the Modelling  and  Simulation  Society of Australia  and  New Zealand",
+    "Acronym": "Modsim  03",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Construction Management  and  Economics  Conference",
+    "Acronym": "CME 25",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Contact Mechanics",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Corrosion and  Prevention",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Data  Compression  Conference",
+    "Acronym": "DCC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Database  Systems  for Advanced Applications",
+    "Acronym": "DASFAA",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Design  and  Emotion Society Conferences",
+    "Acronym": "D&E",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Design  Computing and  Cognition",
+    "Acronym": "DCC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Empirical  Methods  in  Natural  Language  Processing",
+    "Acronym": "EMNLP",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Euromicro Conference on Real-Time  Systems",
+    "Acronym": "ECRTS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Association  of Computational  Linguistics",
+    "Acronym": "EACL",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Conference on Artificial  Intelligence",
+    "Acronym": "ECAI",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Conference on Computational  Mechanics",
+    "Acronym": "ECCM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Conference on Computer Vision",
+    "Acronym": "ECCV",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Conference on Information  Systems",
+    "Acronym": "ECIS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Conference on Machine  Learning",
+    "Acronym": "ECML",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Conference on Numerical  Methods  in  Geotechnical  Engineering",
+    "Acronym": "NUMGE",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Conference on Object-Oriented Programming",
+    "Acronym": "ECOOP",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Conference on Principles  and  Practice of Knowledge  Discovery in  Databases",
+    "Acronym": "PKDD",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Conference on Speech  Communication  and  Technology (now Interspeech)",
+    "Acronym": "EuroSpeech",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Conference on Wireless  Sensor  Networks",
+    "Acronym": "EWSN",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Graphics  Conference",
+    "Acronym": "EUROGRAPH",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Symposium  on Algorithms",
+    "Acronym": "ESA",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Symposium  on Programming",
+    "Acronym": "ESOP",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Symposium  On Research  In  Computer Security",
+    "Acronym": "ESORICS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "European  Turbulence  Conference",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Eurosys Conference",
+    "Acronym": "EuroSys",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Experiential  Knowledge  SIG conferences  (Design  Research  Society (DRS) SIG,UK)",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Extending Database  Technology",
+    "Acronym": "EDBT",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "FIE Frontiers  in  Education",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Financial  Cryptography and  Data  Security Conference",
+    "Acronym": "FC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Formal  Methods  Europe",
+    "Acronym": "FME",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Foundations  of Genetic  Algorithms",
+    "Acronym": "FOGA",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Genetic  and  Evolutionary Computations",
+    "Acronym": "GECCO",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Geo  congress  of the Geo-Institute  of ASCE",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "GeoShanghai  International  Conferences",
+    "Acronym": "GeoShanghai",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Graph  Drawing",
+    "Acronym": "GD",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Hawaii  International  Conference on System Sciences",
+    "Acronym": "HICSS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Healthy  Buildings",
+    "Acronym": "HB",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Hong Kong Institute  of Value  Management  Conference",
+    "Acronym": "HKIVM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IASTED International  Conference on Biomedical  Engineering",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IASTED Telehealth  and  Assistive  Technology",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Computational  Systems  Bioinformatics  Conference",
+    "Acronym": "CSB",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Computer Security Foundations  Symposium  (was  CSFW)",
+    "Acronym": "CSF",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Conference in  Industrial  Electronics  and  Applications",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Conference on Computer Communications",
+    "Acronym": "IEEE INFOCOM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Conference on Computer Vision  and  Pattern Recognition",
+    "Acronym": "CVPR",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Conference on Decision  and  Control",
+    "Acronym": "CDC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Conference on Local  Computer Networks",
+    "Acronym": "LCN",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Conference on Robotics,  Automation  and  Mechatronics",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Congress  on Evolutionary Computation",
+    "Acronym": "IEEE CEC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE EMBS Neural  Engineering  Conference",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Information  Visualization  Conference",
+    "Acronym": "IEEE InfoVis",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Cluster Computing",
+    "Acronym": "CLUSTER",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Computer Vision",
+    "Acronym": "ICCV",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Data  Mining",
+    "Acronym": "ICDM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Engineering  of Complex Computer Systems",
+    "Acronym": "ICECCS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on e-Science  and  Grid Computing",
+    "Acronym": "e-Science",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Fuzzy Systems",
+    "Acronym": "FUZZ-IEEE",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Pervasive Computing and  Communications",
+    "Acronym": "PERCOM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Robots  and  Automation",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Services  Computing",
+    "Acronym": "SCC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Software Maintenance",
+    "Acronym": "ICSM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Web  Services",
+    "Acronym": "ICWS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Joint Conference on Neural  Networks",
+    "Acronym": "IJCNN",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Parallel  and  Distributed  Processing  Symposium  (was  IPPS and  SPDP)",
+    "Acronym": "IPDPS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Requirements  Engineering  Conference",
+    "Acronym": "RE",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on a  World of Wireless,  Mobile  and  Multimedia  Networks",
+    "Acronym": "WoWMoM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Artificial  Life",
+    "Acronym": "IEEE Alife",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Biomedical  Imaging",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Cluster, Cloud and  Grid Computing",
+    "Acronym": "CCGRID",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Network Computing and  Applications",
+    "Acronym": "IEEE NCA",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Wearable  Computing",
+    "Acronym": "ISWC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Real-Time  and  Embedded  Technology and  Applications  Symposium",
+    "Acronym": "RTAS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computational  Complexity",
+    "Acronym": "CCC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Foundations  of Computer Science",
+    "Acronym": "FOCS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Logic in  Computer Science",
+    "Acronym": "LICS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Security and  Privacy",
+    "Acronym": "S&P",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Visual  Languages  and  Human-Centric Computing (was  VL)",
+    "Acronym": "VL/HCC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on VLSI Circuits",
+    "Acronym": "VLSIC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Visualization",
+    "Acronym": "IEEE VIS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Applications  of Computer Vision",
+    "Acronym": "WACV",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE World Congress  on Computational  Intelligence",
+    "Acronym": "WCCI",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE/ACM International  Conference on Computer-Aided Design",
+    "Acronym": "ICCAD",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE/ACM International  Conference on Grid Computing",
+    "Acronym": "GRID",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE/ACM International  Symposium  on Mixed and  Augmented  Reality",
+    "Acronym": "ISMAR",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE/IFIP International  Conference on Dependable  Systems",
+    "Acronym": "DSN",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE/IFIP International  Symposium  on Trusted Computing and  Communications",
+    "Acronym": "TrustCom",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE/IFIP Working Conference on Software Architecture (now with ECSA)",
+    "Acronym": "WICSA",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IEEE/RSJ International  Conference on Intelligent  Robots  and  Systems",
+    "Acronym": "IROS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IFIP Joint International  Conference on Formal  Description  Techniques  and  Protocol Specification,  Testing,  And Verification",
+    "Acronym": "FORTE",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IFIP Networking 200X",
+    "Acronym": "Networking 200X",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IFIP TC13 Conference on Human-Computer Interaction",
+    "Acronym": "Interact",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "IFIP/IEEE International  Symposium  on Integrated  Management  (odd years  sharing  with NOMS)",
+    "Acronym": "IM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Indoor  Air",
+    "Acronym": "IA",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Information  Processing  in  Sensor  Networks",
+    "Acronym": "IPSN",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Intelligent  Data  Analysis",
+    "Acronym": "IDA",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "Intelligent  Systems  in  Molecular  Biology",
+    "Acronym": "ISMB",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Colloquium  on Automata  Languages  and  Programming",
+    "Acronym": "ICALP",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference for Bulk  Materials  Storage, Handling  and  Transportation",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference in  Business  Process  Management",
+    "Acronym": "BPM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference of the International  Association  for Computer Methods  and  Advances  in  Geomechanics",
+    "Acronym": "IACMAG",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Advanced Information  Systems  Engineering",
+    "Acronym": "CaiSE",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Advances  and  Trends  in  Engineering  Materials  and  Their  Applications",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Advances  in  Materials  and  Processing  Technologies",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference On Agile  Manufacturing",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Apps  for Specific  Array Processors",
+    "Acronym": "ASAP",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Automated  Deduction",
+    "Acronym": "CADE",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Automated  Planning  and  Scheduling",
+    "Acronym": "ICAPS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Autonomous  Agents  and  Multiagent  Systems",
+    "Acronym": "AAMAS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Civil, Structural and  Environmental  Engineering  Computing",
+    "Acronym": "CIVIL-COMP",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Coastal  Engineering",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Compiler  Construction",
+    "Acronym": "CC",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Compilers,  Architecture, and  Synthesis  for Embedded  Systems",
+    "Acronym": "CASES",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Composite  Materials",
+    "Acronym": "",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Computational  Linguistics",
+    "Acronym": "COLING",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Computational  Plasticity",
+    "Acronym": "COMPLAS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Computational  Science",
+    "Acronym": "ICCS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Computer Graphics  Theory and  Application",
+    "Acronym": "GRAPP",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Computers in  Urban Planning  and  Urban Management",
+    "Acronym": "CUPUM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Computing and  Combinatorics",
+    "Acronym": "COCOON",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Conceptual  Modelling",
+    "Acronym": "ER",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Concurrency Theory",
+    "Acronym": "CONCUR",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Control, Automation,  Robotics  and  Vision",
+    "Acronym": "ICARCV",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Cooperative Information  Systems",
+    "Acronym": "CoopIS",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Coordination  Models  and  Languages",
+    "Acronym": "Coordination",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Data  Engineering",
+    "Acronym": "ICDE",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Database  Theory",
+    "Acronym": "ICDT",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Design  Science  Research  in  Information  Systems  and  Technology",
+    "Acronym": "DESRIST",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "International  Conference on Design  Theory and  Methodology  (ASME)",
+    "Acronym": "DTM",
+    "Rank": "A"
+  },
+  {
+    "Standard Name": "2008 International  Conference on Biomedical  Robotics  and  Biomechatronics",
+    "Acronym": "BIO ROB",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "AAEE - Annual  Conference of Australasian  Association  for Engineering  Education",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM Conference on Electronic Commerce",
+    "Acronym": "EC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM International  Conference on Advances  in  Geographic  Information  Systems",
+    "Acronym": "SIGSPATIAL",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM International  Conference on Digital  Interactive  Media  in  Entertainment  and  Arts",
+    "Acronym": "DIMEA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM International  Conference on Recommender  Systems",
+    "Acronym": "RecSys",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM International  Conference on Web  Search and  Data  Mining",
+    "Acronym": "WSDM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM International  Wireless  Communications  and  Mobile  Computing Conference",
+    "Acronym": "IWCMC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM International  Workshop  on. Mobility  Management  and  Wireless  Access",
+    "Acronym": "MobiWac",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM SIGGRAPH/Eurographics  Symposium  on Computer Animation",
+    "Acronym": "SCA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM SIGMM International  Workshop  on Multimedia  Information  Retrieval",
+    "Acronym": "MIR",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM SIGMOBILE International  Conference on Mobile  Systems, Applications  and  Services",
+    "Acronym": "Mobisys",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM SIGPLAN Workshop  on Partial  Evaluation  and  Program Manipulation",
+    "Acronym": "PEPM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM SIGSOFT Workshop  on Program Analysis  for Software Tools  and  Engineering",
+    "Acronym": "PASTE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM Special  Interest  Group on Supporting  Group Work (was  SIGGRoup)",
+    "Acronym": "Group",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM Symposium  on Applied  Computing",
+    "Acronym": "SAC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM Symposium  on Information,  Computer and  Communications  Security",
+    "Acronym": "AsiaCCS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM Symposium  on Solid  and  Physical  Modelling",
+    "Acronym": "SPM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM Workshop  on Scalable  Trusted Computing",
+    "Acronym": "STC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM Workshop  on Web  Information  and  Data  Management",
+    "Acronym": "WIDM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM/IEEE International  Conference on Distributed  Smart Cameras",
+    "Acronym": "ICDSC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM/IEEE/SCS Workshop  on Parallel  and  Distributed  Simulation",
+    "Acronym": "PADS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ACM-SIGMIS CPR Conference",
+    "Acronym": "ACM-SIGMIS CPR",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Ada-Europe  International  Conference on Reliable  Software Technologies",
+    "Acronym": "EuAda",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Advanced Concepts for Intelligent  Vision  Systems",
+    "Acronym": "ACIVS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Advanced Video  and  Signal  Based  Surveillance",
+    "Acronym": "AVSS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Advanced Visual  Interfaces",
+    "Acronym": "AVI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Agent-Oriented  Information  Systems  Workshop",
+    "Acronym": "AOIS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "AIAA Aerospace  Sciences  Meeting",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "AISB Convention (Society for the Study of Artificial  Intelligence  and  Simulation  of Behaviour)",
+    "Acronym": "AISB",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Ambient  Information  Systems",
+    "Acronym": "AIS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Americas  Conference on Wind  Engineering",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Annual  International  Workshop  on Presence",
+    "Acronym": "PRESENCE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Annual  PPIG Workshop",
+    "Acronym": "PPIG",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Application  of Concurrency to System Design",
+    "Acronym": "ACSD",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Artificial  Neural  Networks in  Engineering  Conference",
+    "Acronym": "ANNIE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ASEE Annual  Conference and  Exposition",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ASEE Global  Colloquium  of Engineering  Education",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Asia  Pacific Conference on Combustion",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Asia  Pacific Conference on Communications",
+    "Acronym": "APCC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Asian  Computing Science  Conference",
+    "Acronym": "ASIAN",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Asian  Conference on Computer Vision",
+    "Acronym": "ACCV",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ASIAN Symposium  on Programming Languages  and  Systems",
+    "Acronym": "APLAS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Asian  Symposium  on Visualization",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Bioinformatics  Conference",
+    "Acronym": "APBC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Conference on Conceptual  Modelling",
+    "Acronym": "APCCM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Conference on Simulated  Evolution  and  Learning",
+    "Acronym": "SEAL",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Conference on Wind  Engineering",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Vibration  Conference",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Association  for Computer-Aided Architectural Design  Research  in  Asia  (CAADRIA) annual  conference",
+    "Acronym": "CAADRIA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Association  of Collegiate  Schools  of Architecture (ACSA) Annual  Meeting",
+    "Acronym": "ACSA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australasian  Computer Science  Conference",
+    "Acronym": "ACSC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australasian  Computer Systems  Architecture Conference (now Asia-Pacific  Computer Systems  Architecture Conference)",
+    "Acronym": "ACSAC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australasian  Conference on Computer Science  Education",
+    "Acronym": "ACE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australasian  Conference on Information  Security and  Privacy",
+    "Acronym": "ACISP",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australasian  Conference on Robotics  and  Automation",
+    "Acronym": "ACRA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australasian  Conference on the Mechanics  of Structures and  Materials",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australasian  Database  Conference",
+    "Acronym": "ADC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australasian  Information  Security Conference",
+    "Acronym": "AISC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australasian  Joint Conference on Artificial  Intelligence",
+    "Acronym": "AI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australasian  Speech  Science  and  Technology",
+    "Acronym": "SST",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australasian  User  Interface  Conference",
+    "Acronym": "AUIC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australasian  Workshop  on Combinatorial  Algorithms",
+    "Acronym": "AWOCA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australasian  Workshop  on Health  Data  and  Knowledge  Management",
+    "Acronym": "HDKM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australia  New Zealand  Geomechanics  conference",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  and  New Zealand  Architectural Science  Association  (ANZAScA) Annual  Conference",
+    "Acronym": "ANZAScA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  and  New Zealand  Association  of Planning  schools",
+    "Acronym": "ANZAPS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Computer Human  Interaction  Conference",
+    "Acronym": "OZCHI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Conference for Knowledge  Management  and  Intelligent  Decision  Support",
+    "Acronym": "ACKMIDS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Conference on Artificial  Life",
+    "Acronym": "ACAL",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Conference on Laser  Diagnostics  in  Fluid  Mechanics  and  Combustion",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Data  Mining  Conference",
+    "Acronym": "AusDM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Digital  Forensics  Conference",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Earthquake  Engineering  Conference",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Information  Security Management  Conference",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Institute  of Building  Surveyors International  Refereed  Conference",
+    "Acronym": "AIBS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Road  Research  Board  Annual  Conference",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Software Engineering  Conference",
+    "Acronym": "ASWEC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Symposium  on Information  Visualisation",
+    "Acronym": "ASIV",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Universities  Building  Education  Association  Annual  Conference",
+    "Acronym": "AUBEA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Women  in  IT Conference",
+    "Acronym": "OzWIT",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Australian  Workshop  on Requirements  Engineering",
+    "Acronym": "AWRE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Automation  and  Robotics  International  Symposium",
+    "Acronym": "ISARC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Baltic  Sea  Conference on Computing Education  Research",
+    "Acronym": "Koli  Calling",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Baosteel  Academic  Conference",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Bled  Electronic Commerce Conference",
+    "Acronym": "BECC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "British  Machine  Vision  Conference",
+    "Acronym": "BMVC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "British  National  Conference on Databases",
+    "Acronym": "BNCOD",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Built  Environment Education  Conference",
+    "Acronym": "BEECON",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Canadian  Artificial  Intelligence  Conference",
+    "Acronym": "CAAI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Canadian  Geotechnical  Society Conference",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Chemeca: Australasian  Conference on Chemical  Engineering",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Collaborative  Electronic Commerce Technology and  Research",
+    "Acronym": "CollECTeR",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Combinatorial  Pattern Matching",
+    "Acronym": "CPM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Complexity and  information-theoretic  approaches  to biology",
+    "Acronym": "CITB",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Computational  Intelligence  in  Security for Information  Systems",
+    "Acronym": "CISIS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Computational  Wind  Engineering",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Computer Graphics  International",
+    "Acronym": "CGI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Computing and  Control in  the Water Industry 2009",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Computing: The Australasian  Theory Symposium",
+    "Acronym": "CATS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Conference of the Association  for Machine  Translation  in  the Americas",
+    "Acronym": "AMTA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Conference of the European  Association  for Machine  Translation",
+    "Acronym": "EAMT",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Conference of the Pacific Association  for Computational  Linguistics",
+    "Acronym": "PACLING",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Conference on Agile  Software Development",
+    "Acronym": "Agile",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Conference on Analysis  of Algorithms",
+    "Acronym": "AofA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Conference on Artificial  Intelligence  for Applications",
+    "Acronym": "CAIA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Conference on Combinatorial  Optimization  and  Applications",
+    "Acronym": "COCOA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Conference on Fun with Algorithms",
+    "Acronym": "FUN",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Conference on Information  Science,  Technology and  Management",
+    "Acronym": "CISTM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Conference on Security and  Cryptography for Networks",
+    "Acronym": "SCN",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Conference on Software in  Telecommunications  and  Computer Networks",
+    "Acronym": "SOFTCOMM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Conference on Theory and  Applications  of Models  of Computation",
+    "Acronym": "TAMC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Congress  of the Italian  Assoc  for AI",
+    "Acronym": "AI*IA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Construction Automation  Conference",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Construction in  the Twenty-first Century Conferences",
+    "Acronym": "CITC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Construction Management  and  Real  Estate  International  Symposium",
+    "Acronym": "CRIOCM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Cooperative Research  Centre for Construction Innovation  International  Conference",
+    "Acronym": "CRCCI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Cultural  Attitudes  towards  Technology and  Communications",
+    "Acronym": "CATAC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Current Trends  in  Theory and  Practice of Computer Science",
+    "Acronym": "SOFSEM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Data  Warehousing  and  Knowledge  Discovery",
+    "Acronym": "DaWaK",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Databases  and  Programming Language",
+    "Acronym": "DBPL",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Declarative  Agent Languages  and  Technologies",
+    "Acronym": "DALT",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Design  for User  Experience",
+    "Acronym": "DUX",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Design  Research  Society (UK) International  Conference",
+    "Acronym": "DRS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Design  Society Conferences",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Design,  Automation  and  Test  in  Europe Conference",
+    "Acronym": "DATE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Designing  Interactive  Systems",
+    "Acronym": "DIS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Designing  Pleasurable  Products And Interfaces",
+    "Acronym": "DPPI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Deutsche  Arbeitsgemeinschaft  für Mustererkennung  DAGM e.V",
+    "Acronym": "DAGM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Developments  in  Language  Theory",
+    "Acronym": "DLT",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Digital  Image  Computing Techniques  and  Applications",
+    "Acronym": "DICTA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Dynamic Languages  Symposium",
+    "Acronym": "DLS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "East  Asia-Pacific  Conference on Structural Engineering  and  Construction",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Ecopolitics",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Education  and  Research  in  Computer Aided  Architectural Design  in  Europe",
+    "Acronym": "eCAADe",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Educational  Data  Mining",
+    "Acronym": "EDM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Engineering  Education  series  (organised  by Higher  Education  Academy Engineering  Subject Centre UK)",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Entertainment  and  media  in  the ubiquitous  era  (ACM)",
+    "Acronym": "MINDTREK",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Environmental  Design  Research  Association",
+    "Acronym": "EDRA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ERCIM Annual  Workshop  on Constraint Solving  and  Constraint Logic Programming",
+    "Acronym": "ERCIM/CSCLP",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Ershov Conference",
+    "Acronym": "PSI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "ETHICOMP Conference",
+    "Acronym": "ETHICOMP",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Eurographics  Symposium  on Parallel  Graphics  and  Visualization",
+    "Acronym": "EGPGV",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Eurographics  Symposium  on Virtual  Environments",
+    "Acronym": "EGVE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Eurographics/IEEE Symposium  on Visualization",
+    "Acronym": "EuroVis",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Europe-Africa Conference on Wind  Engineering",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Conference on Artificial  Life",
+    "Acronym": "ECAL",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Conference on Computational  Biology",
+    "Acronym": "ECCB",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Conference on Computer Supported  Cooperative Work",
+    "Acronym": "ECSCW",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Conference on Genetic  Programming",
+    "Acronym": "EUROGP",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Conference on Information  Retrieval",
+    "Acronym": "ECIR",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Conference on Knowledge  Management",
+    "Acronym": "EKM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Conference on Pattern Languages  of Programs",
+    "Acronym": "EuroPLop",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Metallurgical  Congress",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Natural  Language  Generation  Workshop",
+    "Acronym": "EuroNLG",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  PKI Workshop: Theory and  Practice",
+    "Acronym": "EUROPKI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Signal  Processing  Conference",
+    "Acronym": "EUSIPCO",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Simulation  MultiConference",
+    "Acronym": "ESM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Simulation  Symposium",
+    "Acronym": "ESS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Software Engineering  Conference",
+    "Acronym": "ESEC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  SPI",
+    "Acronym": "EuroSPI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Symposium  on Artificial  Neural  Networks",
+    "Acronym": "ESANN",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European  Transport Conference",
+    "Acronym": "ETC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "European,  Mediterranean  and  Middle  Eastern  Conference on Information  Systems",
+    "Acronym": "EMCIS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Financial  Cryptography",
+    "Acronym": "FINCRY",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "FISITA World Automotive Congress",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Formal  Power Series  and  Algebraic  Combinatorics",
+    "Acronym": "FPSAC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Foundations  of Software Technology and  Theoretical  Computer Science",
+    "Acronym": "FST&TCS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "French Conference on Knowledge  Acquisition  and  Machine  Learning",
+    "Acronym": "FCKAML",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Fundamental  Approaches  to Software Engineering",
+    "Acronym": "FASE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Geometric Modelling  and  Imaging,  International  Conference (IEEE)",
+    "Acronym": "GMAI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Geometry Modeling  and  Processing",
+    "Acronym": "GMP",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "German  Conference on Multi-Agent  system  Technologies",
+    "Acronym": "MATES",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Global  Conference on Sustainable  Product Development  and  Life  Cycle Engineering",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Global  Information  Technology Management  Association  World Conference",
+    "Acronym": "GITMA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Graphics  Interface",
+    "Acronym": "GI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Heterogeneity  in  Computing Workshop",
+    "Acronym": "HCW",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Hydrology and  Water Resources  Symposium",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Computer Communications  Workshop",
+    "Acronym": "CCW",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Conference on Automation  Science  and  Engineering",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Conference on Computational  Complexity",
+    "Acronym": "Complexity",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Conference on Sensor,  Mesh  and  Ad Hoc Communications  and  Networks",
+    "Acronym": "SECON",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Conference on Systems, Man and  Cybernetics",
+    "Acronym": "SMC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Congress  on Services",
+    "Acronym": "SERVICES",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Consumer Communications  and  Networking Conference",
+    "Acronym": "IEEE CCNC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Global  Telecommunications  Conference",
+    "Acronym": "IEEE GLOBECOM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference and  Workshop  on the Engineering  of Computer Based  Systems",
+    "Acronym": "ECBS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Advanced Learning  Technologies",
+    "Acronym": "ICALT",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Autonomic Computing",
+    "Acronym": "ICAC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Cloud Computing",
+    "Acronym": "CLOUD",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Communications",
+    "Acronym": "ICC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Control Applications",
+    "Acronym": "CCA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Distributed  Computing in  Sensor  Systems",
+    "Acronym": "DCOSS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on e-Business  Engineering",
+    "Acronym": "ICEBE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on High  Performance Computing and  Communications",
+    "Acronym": "HPCC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on High  Performance Computing and  Simulation",
+    "Acronym": "IEEE HPCS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Image  Processing",
+    "Acronym": "ICIP",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Mechatronics  and  Automation",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Mobile  Ad-hoc and  Sensor  Systems",
+    "Acronym": "MASS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Multimedia  and  Expo",
+    "Acronym": "ICME",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Networks",
+    "Acronym": "ICON",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Neural  Networks",
+    "Acronym": "ICNN",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Remote  Frequency Identification",
+    "Acronym": "IEEE RFID",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Robotics  and  Biomimetics",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Wireless  Information  Technology and  Systems",
+    "Acronym": "ICWITS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Dynamic Spectrum Access  Networks Symposium",
+    "Acronym": "IEEE DYSPAN",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Enterprise  Distributed  Object Computing Conference",
+    "Acronym": "EDOC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Performance Computing and  Communications  Conference",
+    "Acronym": "IPCCC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Distributed  Simulation  and  Real-time  Applications",
+    "Acronym": "IEEE DS-RT",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Electronics  and  the Environment",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on High  Assurance  Systems  Engineering",
+    "Acronym": "HASE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Information  Theory",
+    "Acronym": "ISIT",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Intelligent  Control",
+    "Acronym": "ISIC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Parallel  and  Distributed  Processing  with Applications",
+    "Acronym": "ISPA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Personal  and  Indoor  Mobile  Radio  Conference",
+    "Acronym": "PIMRC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Test  Conference",
+    "Acronym": "ITC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Workshop  on Object-Oriented Real-Time  Dependable  Systems",
+    "Acronym": "WORDS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Workshop  on Quality  of Service",
+    "Acronym": "IWQoS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE International  Workshop  on Visualizing  Software for Understanding  and  Analysis",
+    "Acronym": "VISSOFT",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Network Operations  and  Management  Symposium",
+    "Acronym": "NOMS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Pacific Visualization  Symposium  (was  APVIS)",
+    "Acronym": "PacificVis",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on 3D User  Interfaces",
+    "Acronym": "3DUI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computers and  Communications",
+    "Acronym": "ISCC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on High-Performance Interconnects",
+    "Acronym": "HOTI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Vehicular  Technology Conference",
+    "Acronym": "VTC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Virtual  Reality  Conference",
+    "Acronym": "VR",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Wireless  Communications  and  Networking Conference",
+    "Acronym": "WCNC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Working Conference on Reverse  Engineering",
+    "Acronym": "WCRE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Hot Topics  in  Web  Systems  and  Technologies",
+    "Acronym": "HotWeb",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE/IFAC Computer Aided  Control System Design",
+    "Acronym": "CACSD",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IEEE/IFIP International  Conference on Information  Technology for Balanced  Automation  Systems",
+    "Acronym": "BASYS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IFIP International  Conference on Distributed  Applications  and  Inoperable  Systems",
+    "Acronym": "DAIS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IFIP International  Conference on Open  Distributed  Processing",
+    "Acronym": "ODP",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IFIP International  Information  Security Conference",
+    "Acronym": "IFIP SEC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IFIP/ACM Working Conference on Component Deployment",
+    "Acronym": "CD",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IFIP/IEEE International  Workshop  on Distributed  Systems  Operations  and  Management",
+    "Acronym": "DSOM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IFSA World Congress",
+    "Acronym": "IFSA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "IMA International  Conference on Cryptography and  Coding",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Image  and  Vision  Computing Conference",
+    "Acronym": "IVCNZ",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Inductive  Logic Programming",
+    "Acronym": "ILP",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Information  Security Conference",
+    "Acronym": "ISC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Information  Security Practice and  Experience  Conference",
+    "Acronym": "ISPEC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Information  Systems  Education  Conference",
+    "Acronym": "ISECON",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Information  Theory Workshop",
+    "Acronym": "ITW",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Infrastructure and  Environment (International  Postgraduate  Conference)",
+    "Acronym": "IPC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Innovative  Applications  in  AI",
+    "Acronym": "IAAI",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Integrated  Formal  Methods",
+    "Acronym": "IFM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Integration  of Software Engineering  and  Agent Technology",
+    "Acronym": "ISEAT",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Intelligent  Vehicles  Symposium",
+    "Acronym": "IEEE IV",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Intelligent  Virtual  Agents",
+    "Acronym": "IVA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Interaction  Design  and  Children  (ACM)",
+    "Acronym": "IDC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Interactive  Entertainment",
+    "Acronym": "IE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Interior  Design  Educators Association  (IDEA) Conference",
+    "Acronym": "IDEA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Interiors  Forum Scotland  conference",
+    "Acronym": "IFS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "Interiors  Forum World, Politecnico  di  Milano",
+    "Acronym": "IFW",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Association  for the Study of Traditional  Environments  (US)",
+    "Acronym": "IASTE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Association  of Ergonomics Societies  Congress",
+    "Acronym": "IEA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Association  of Societies  of Design  Research",
+    "Acronym": "IASDR",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Baltic  Conference on Databases  and  Information  Systems",
+    "Acronym": "DB&IS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Business  Information  Management",
+    "Acronym": "IBIMA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Cognitive Robotics  Conference",
+    "Acronym": "COGROBO",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Colloquium  on Structural Information  and  Communication  Complexity",
+    "Acronym": "SIROCCO",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Colloquium  on Theoretical  Aspects  of Computing",
+    "Acronym": "ICTAC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Computer Science  Conference",
+    "Acronym": "ICSC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Computer Software and  Applications  Conference",
+    "Acronym": "COMPSAC",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Computing Education  Research  Workshop",
+    "Acronym": "ICER",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference and  Exhibition  on High  Performance Computing in  the Asia-Pacific  Region",
+    "Acronym": "HPC Asia",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference of Society for Group Decision  and  Negotiation",
+    "Acronym": "GDN",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on AD-HOC Networks and  Wireless",
+    "Acronym": "ADHOC-NOW",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Advanced Computing and  Communications",
+    "Acronym": "AdCom",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Advanced Data  Mining  and  Applications",
+    "Acronym": "ADMA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Advanced Information  Networking and  Applications  (was  ICOIN)",
+    "Acronym": "AINA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Advanced Materials  Processing",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Advances  in  Intelligent  Systems: Theory and  Applications",
+    "Acronym": "AISTA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Advances  in  Mobile  Computing and  Multimedia",
+    "Acronym": "MOMM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Algebraic  and  Logic Programming",
+    "Acronym": "ALP",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Algorithms  and  Architectures for Parallel  Processing",
+    "Acronym": "ICA3PP",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Applied  Cryptography and  Network Security",
+    "Acronym": "ACNS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Artificial  Intelligence  and  Statistics",
+    "Acronym": "AISTATS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Artificial  Neural  Networks",
+    "Acronym": "ICANN",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Artificial  Reality  and  Telexistence",
+    "Acronym": "ICAT",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Availability,  Reliability  and  Security",
+    "Acronym": "ARES",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Biomedical  and  Pharmaceutical  Engineering",
+    "Acronym": "",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Broadband  Communications,  Networks and  Systems",
+    "Acronym": "Broadnets",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Business  Information  Systems",
+    "Acronym": "BIS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Computational  Molecular  Biology",
+    "Acronym": "RECOMB",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Computer Analysis  of Images  and  Patterns",
+    "Acronym": "CAIP",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Computer Graphics  and  Interactive  Techniques  in  Australasia  and  Southeast  Asia",
+    "Acronym": "SIGGRAPH ASIA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Computer Safety, Reliability  and  Security",
+    "Acronym": "SAFECOMP",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Computer Supported  Cooperative Work in  Design",
+    "Acronym": "CSCWD",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Computers in  Education",
+    "Acronym": "ICCE",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Conceptual  Structures",
+    "Acronym": "ICCS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Construction and  Real  Estate  Management",
+    "Acronym": "ICCREM",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Cryptology and  Network Security",
+    "Acronym": "CANS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Cryptology in  India",
+    "Acronym": "INDOCRYPT",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Cyberworlds (was  International  Symposium  on Cyberworlds)",
+    "Acronym": "CW",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Database  and  Expert Systems  Applications",
+    "Acronym": "DEXA",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Digital  Government Research",
+    "Acronym": "DGO",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "International  Conference on Discrete  Mathematics  and  Theoretical  Computer Science",
+    "Acronym": "DMTCS",
+    "Rank": "B"
+  },
+  {
+    "Standard Name": "3-D Digital  Imaging  and  Modelling",
+    "Acronym": "3DIM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "A Satellite  workshop  on Formal  Approaches  to Testing  of Software",
+    "Acronym": "FATES",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Accelerating  excellence  in  the built  environment  World Conference",
+    "Acronym": "WCAEBE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Accounting and  Finance  Association  of Australia  and  New Zealand  Conference",
+    "Acronym": "AFAANZ",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACIS Conference on Software Engineering  Research,  Management  and  Applications",
+    "Acronym": "SERA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM Annual  Computer Science  Conference",
+    "Acronym": "CSC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM Digital  Rights  Management  Workshop",
+    "Acronym": "DRM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM Information  Technology Education",
+    "Acronym": "SIGITE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM International  Workshop  On Multimedia  Databases",
+    "Acronym": "MMDB",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM SIGCHI_NZ Conference on Human-Computer Interaction",
+    "Acronym": "CHINZ",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM SIGIR  Workshop  on XML and  Information  Retrieval",
+    "Acronym": "SIGIR/XML",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM SIGOPS European  Workshops",
+    "Acronym": "SIGOPS-EW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM SIGPLAN Workshop  on Types in  Language  Design  and  Implementation  (was  TIC)",
+    "Acronym": "TLDI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM SIGUCCS Conference on User  Services",
+    "Acronym": "SIGUCCS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM Symposium  on Principles  of Database  Systems",
+    "Acronym": "SPDS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM Workshop  on Formal  Methods  in  Security Engineering:  From Specifications  to Code",
+    "Acronym": "FMSE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM Workshop  on Hot Topics  in  Software Upgrades",
+    "Acronym": "HotSWUp",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM Workshop  on Role  Based  Access  Control (now SACMAT)",
+    "Acronym": "RBAC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACM Workshop  on Secure Web  Services",
+    "Acronym": "SWS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ACS/IEEE International  Conference on Computer Systems  and  Applications",
+    "Acronym": "AICCSA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Active and  Real-Time  Database  Systems",
+    "Acronym": "ARTDB",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Advanced Course on Artificial  Intelligence",
+    "Acronym": "ACAI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Advanced Research  in  VLSI",
+    "Acronym": "ARVLSI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Advances  in  Information  Systems",
+    "Acronym": "ADVIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Advances  in  Intelligent  Systems",
+    "Acronym": "AIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Advances  in  the Theory of Computing",
+    "Acronym": "AITC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Agent-Oriented  Software Engineering  Workshop",
+    "Acronym": "AOSE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "AIChE Annual  Meeting",
+    "Acronym": "",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Algebraic  Methodology  and  Software Technology",
+    "Acronym": "AMAST",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Algorithms  and  Complexity in  Durham",
+    "Acronym": "ACID",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Ambient  Intelligence  Developments",
+    "Acronym": "Aml.d",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "American  Federation  of Information  Processing  Societies",
+    "Acronym": "AFIPS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Annual  Conference of the Australasian  Society for Computers in  Learning  in  Tertiary Education",
+    "Acronym": "ASCILITE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Annual  Conference of the European  Association  for Computer Science  Logic",
+    "Acronym": "CSL",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Annual  Conference of the International  Academy for Information  Management",
+    "Acronym": "IAIM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Annual  Conference on Evolutionary Programming",
+    "Acronym": "EP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Annual  Conference on Privacy, Security and  Trust",
+    "Acronym": "PST",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Annual  Convention for Survey, Mapping  and  Remote  Sensing",
+    "Acronym": "RS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Annual  Fall  Workshop  on Computational  Geometry",
+    "Acronym": "CGW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Annual  International  Conference on Ada",
+    "Acronym": "TRI-Ada",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Annual  Meeting  of the Decision  Sciences  Institute",
+    "Acronym": "DSI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Annual  PKI R&D Workshop",
+    "Acronym": "PKI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Annual  Simulation  Symposium",
+    "Acronym": "ANSS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Annual  Workshop  on Selected  Areas  in  Cryptography",
+    "Acronym": "SELCRYP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Apple  University Consortium Academic  and  Developers  Conference",
+    "Acronym": "AUCADC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Applications  of Information  Visualization",
+    "Acronym": "IV-App",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Applications  of Natural  Language  to Data  Bases",
+    "Acronym": "NLDB",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Applied  Computing Conference",
+    "Acronym": "ACC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Applied  Perception in  Graphics  and  Visualization",
+    "Acronym": "APGV",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Argentine  Symposium  on Artificial  Intelligence",
+    "Acronym": "ASAI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Artificial  Intelligence  in  Knowledge  Management",
+    "Acronym": "AIKM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia  Information  Retrieval  Symposium",
+    "Acronym": "AIRS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia  International  Conference on Modelling  and  Simulation",
+    "Acronym": "AMS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia  Pacific Conference on Hardware  Description  Languages  (was  Asia  Pacific CHipDesign  Languages)",
+    "Acronym": "APCHDL",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia  Pacific Decision  Science  Institute  Conference",
+    "Acronym": "APDSI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia  Pacific Design  Automation  Conference",
+    "Acronym": "ASDAC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia  Pacific Industrial  Engineering  and  Management  Systems  and  Chinese  Institute  of Industrial  Engineers  Conference",
+    "Acronym": "APIEMS CIIEC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia  Pacific Research  Symposium  on Accounting Information  Systems",
+    "Acronym": "APRSAIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia  Pacific Web  Conference",
+    "Acronym": "APWEB",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asian  International  Mobile  Computing Conference",
+    "Acronym": "AMOC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asian  Symposium  on Computer Mathematics",
+    "Acronym": "ASCM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Computer Human  Interaction  Conference",
+    "Acronym": "APCHI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Conference on Complex Systems",
+    "Acronym": "Complex",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Forum on Engineering  and  Technology Education",
+    "Acronym": "AFETE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Network Operations  and  Management  Symposium",
+    "Acronym": "APNOMS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Services  Computing Conference",
+    "Acronym": "APSCC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Software Engineering  Conference",
+    "Acronym": "APSEC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asia-Pacific  Symposium  on Visualisation",
+    "Acronym": "APVIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Asilomar  Conference on Signals,  Systems  and  Computing",
+    "Acronym": "ACSSC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Aspect-Orientation  Asia",
+    "Acronym": "AO-Asia",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Association  of Architecture Schools  of Australasia  Annual  Conference (AASA)",
+    "Acronym": "AASA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Athens  Colloquium  on Algorithms  and  Complexity",
+    "Acronym": "ACAC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasia  Conference on Information  Security and  Privacy",
+    "Acronym": "AISP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Cognitive Science  Society Conference",
+    "Acronym": "AuCSS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Compumod Users'  Conference",
+    "Acronym": "COMPUMOD",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Computer Architecture Conference",
+    "Acronym": "ACAC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Computer Music  Conference",
+    "Acronym": "ACMA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Computers in  Education  Conference",
+    "Acronym": "ACEC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Conference on Combinatorial  Mathematics  and  Combinatorial  Computing",
+    "Acronym": "ACCMCC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Conference on Parallel  and  Real-Time  Systems",
+    "Acronym": "APRTS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Conference on Pattern Languages  of Programs",
+    "Acronym": "KoalaPLoP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Information  Security Workshop  2007 (Privacy Enhancing  Technologies)",
+    "Acronym": "AISW-PET",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Refinement  Workshop",
+    "Acronym": "AuRW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Remote  Sensing  Conference and  Photogrammetry Conference",
+    "Acronym": "ARSPC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Road  Safety Research,  Policing  and  Education  Conference",
+    "Acronym": "",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Symposium  on Grid Computing and  e-Research  (now AusPDC)",
+    "Acronym": "AusGrid",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Symposium  on Parallel  and  Distributed  Computing (was  AusGrid)",
+    "Acronym": "AusPDC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Urban and  Regional  Information  Systems  Association  Conference",
+    "Acronym": "AURISA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Wind  Engineering  Society Workshop  in  Wind  Engineering",
+    "Acronym": "",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australasian  Women  in  Computing Workshop",
+    "Acronym": "WIC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australia-Japan  Joint Workshop  on Intelligent  and  Evolutionary Systems",
+    "Acronym": "AJWIES",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  and  New Zealand  Academy of Management  Conference",
+    "Acronym": "ANZAM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  and  New Zealand  Intelligent  Information  Systems  Conference",
+    "Acronym": "ANZIIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  and  New Zealand  Marketing  Academy Conference",
+    "Acronym": "ANZMAC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Combustion  Symposium",
+    "Acronym": "",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Conference on Neural  Networks",
+    "Acronym": "ACNN",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Conference on Software Metrics",
+    "Acronym": "ACOSM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Game  Developers  Conference",
+    "Acronym": "AGDC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Geothermal  Energy Conference",
+    "Acronym": "",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Information  Warfare  and  Security Conference",
+    "Acronym": "WarSec",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Institute  of Computer Ethics Conference",
+    "Acronym": "AICE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Knowledge  Acquisition  Workshop",
+    "Acronym": "AKAW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  MADYMO Users  Meeting",
+    "Acronym": "MADYMO",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  MATLAB Conference",
+    "Acronym": "MATLAB",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Supercomputing  Conference",
+    "Acronym": "ACS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Telecommunication  Networks and  Applications  Conference",
+    "Acronym": "ATNAC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  UNIX Users  Group National  Conference",
+    "Acronym": "AUUG",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Water Association  Convention - Ozwater",
+    "Acronym": "",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Workshop  on Mobile  Computing, Databases  and  Applications",
+    "Acronym": "MCDA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Workshop  on Safety Critical Systems  and  Software",
+    "Acronym": "SCSS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  Workshop  on Software Architecture",
+    "Acronym": "AWSA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Australian  World Wide  Web  Conference",
+    "Acronym": "AusWeb",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Automation  of Software Test",
+    "Acronym": "AST",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Benelux  Workshop  on Information  and  System Security",
+    "Acronym": "WISSec",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Bioinformatics  Visualization",
+    "Acronym": "BioViz",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Body Sensor  Networks",
+    "Acronym": "BSN",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Brazilian  Symposium  on Computer Graphics  and  Image  Processing",
+    "Acronym": "SIBGRAPI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Brazilian  Symposium  on Databases",
+    "Acronym": "SBBD",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Brazilian  Symposium  on Graphs,  Algorithms  and  Combinatorics",
+    "Acronym": "GRACO",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Brazilian  Symposium  on Information  and  Computer Systems  Security",
+    "Acronym": "SBSEG",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "British  Colloquium  for Theoretical  Computer Science",
+    "Acronym": "BCTCS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "British  Computer Society Formal  Aspects  of Computing Science  Specialist  Group Workshop",
+    "Acronym": "BCS-FMW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Canadian  Conference on Computational  Geometry",
+    "Acronym": "CCCG",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Canadian  Conference on Computer and  Robot Vision",
+    "Acronym": "CRV",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Canadian  Conference on Electrical  and  Computer Engineering",
+    "Acronym": "CCECE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Canadian  Discrete  and  Algorithmic  Mathematics  Conference",
+    "Acronym": "CanaDAM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Canadian  Society for Civil Engineering,  International  Construction Specialty  Conference",
+    "Acronym": "ICSC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "CGAL User  Workshop",
+    "Acronym": "CGAL",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "CGC Workshop  on Computational  Geometry",
+    "Acronym": "CGC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Challenges  of Large Applications  in  Distributed  Environments",
+    "Acronym": "CLADE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Chilean  Database  Workshop",
+    "Acronym": "JCC/WBD(CDW)",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ChinaGrid  Annual  Conference",
+    "Acronym": "ChinaGrid",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Coastal  Environment",
+    "Acronym": "",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Colloquium  on Mathematics  and  Computer Science: Algorithms,  Trees, Combinatorics  and  Probabilities",
+    "Acronym": "MathInfo",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Cologne-Twente  Workshop  on Graphs  and  Combinatorial  Optimization",
+    "Acronym": "CTW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "CombinaTexas:  Combinatorics  in  the South-Central U.S.",
+    "Acronym": "Combina  Texas",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Committee on Data  for Science  and  Technology",
+    "Acronym": "CODATA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Complex Objects Visualization  Workshop",
+    "Acronym": "COV",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Computability  in  Europe: Logic and  Theory of Algorithms",
+    "Acronym": "CiE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Computational  Techniques  and  Applications  Conference",
+    "Acronym": "CTAC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Computational  Topology Workshop",
+    "Acronym": "CT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Computer Animation,  Information  Visualisation,  and  Digital  Effects",
+    "Acronym": "CAivDE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Computer Science  Research  Conference",
+    "Acronym": "CSRC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Computing in  Civil Engineering  and  Building  International  Conference",
+    "Acronym": "ICCCBE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Computing in  Education  Group of Victoria  Conference",
+    "Acronym": "CEG",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conférence en  Recherche  d'information  et Applications",
+    "Acronym": "CORIA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference for the International  Simulation  and  Gaming  Association",
+    "Acronym": "ISAGA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference of South African Institute  of Computer Scientists  and  Information  Technologists",
+    "Acronym": "SAICSIT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference of the Association  of Asian-Pacific  Operational  Research  Societies",
+    "Acronym": "APORS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference of the Australian  Institutes  of Transport Research",
+    "Acronym": "CAITR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference of the Commission  Internationale  pour l'Etude  et l'Amelioration  de  l'Enseignement  des  Mathematiques",
+    "Acronym": "CIEAEM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference of the International  Society for Decision  Support Systems",
+    "Acronym": "ISDSS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Algorithmic  Aspects  in  Information  and  Management",
+    "Acronym": "AAIM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Algorithms  and  Hardware  for Parallel  Processing",
+    "Acronym": "CONPAR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Artificial  Neural  Networks and  Expert systems",
+    "Acronym": "ANNES",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Computers, Freedom, and  Privacy",
+    "Acronym": "CFP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Construction Partnering",
+    "Acronym": "CII-HK",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Discrete  Mathematics,  Algebra  and  their Application",
+    "Acronym": "DIMA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Graph  Theory and  Discrete  Geometry",
+    "Acronym": "CGTDG",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Information  Sciences  and  Systems",
+    "Acronym": "CISS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Office Information  Systems",
+    "Acronym": "SIGOA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Operational  Research  Practice in  Africa",
+    "Acronym": "ORPA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Operations  Research",
+    "Acronym": "COR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Orders, Algorithms  and  Applications",
+    "Acronym": "Ordal",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on RFID  Security",
+    "Acronym": "RFIDSec",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Security in  Network Architectures and  Information  Systems",
+    "Acronym": "SAR-SSI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Software Engineering  Education  and  Training",
+    "Acronym": "CSEE&T",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Spatial  Information  Theory",
+    "Acronym": "COSIT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Conference on Visualization  and  Data  Analysis",
+    "Acronym": "VDA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ConnectED: International  Conference on Design  Education",
+    "Acronym": "ConnectED",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Constraint Databases  and  Applications",
+    "Acronym": "CDB",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Constraint Programming Day",
+    "Acronym": "CPD",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Construction Applications  of Virtual  Reality,  International  Conference",
+    "Acronym": "CAVR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Construction Applications  to Virtual  Reality  Conference",
+    "Acronym": "CONVR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Cooperative Design,  Visualization,  and  Engineering",
+    "Acronym": "CDVE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Coordinated  and  Multiple  Views  in  Exploratory Visualization",
+    "Acronym": "CMV",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Cryptography Policy and  Algorithms  Conference",
+    "Acronym": "CryPAC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Crypto'Puces",
+    "Acronym": "Crypto'Puces",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Cultural  Heritage  Knowledge  Visualisation",
+    "Acronym": "CHKV",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Cumulus  - International  Association  of Universities  and  Colleges  of Art, Design  and  Media",
+    "Acronym": "CUMULUS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Data  Semantics  in  Web  Information  Systems",
+    "Acronym": "DASWIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Design  and  Aesthetics  in  Visualisation",
+    "Acronym": "DAViz",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Design  and  Management  of Data  Warehouses",
+    "Acronym": "DMDW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Digital  Arts and  Culture",
+    "Acronym": "DAC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Digital  Games  Research  Conference",
+    "Acronym": "DIGRA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "DIMACS Workshop  on Intrinsic  Complexity of Computation",
+    "Acronym": "DIMACS Intrinsic",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Discourse  Anaphora  and  Anaphor  Resolution  Colloquium",
+    "Acronym": "DAARC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Discrete  and  Algorithmic  Geometry",
+    "Acronym": "DAG",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Discrete  Models:  Combinatorics,  Computation  and  Geometry",
+    "Acronym": "DM-CCG",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Distributed  Communities  on the Web  Workshop",
+    "Acronym": "Dcw",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Domain  - Specific  Languages  for Software Engineering",
+    "Acronym": "DSLSE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Domain  Specific  Aspect Languages",
+    "Acronym": "DSAL",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Durability  of Building  Materials  and  Components  Conference",
+    "Acronym": "DBMC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Dutch Computational  Geometry Day",
+    "Acronym": "DutchCG",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Dynamic Graph  Workshop",
+    "Acronym": "DGW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "East  Asia  Society for Transportation  Studies  Conference (biennial)",
+    "Acronym": "EASTS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ECRYPT Workshop  on Cryptographic Hash  Functions",
+    "Acronym": "",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ECRYPT Workshop  on Tools  for Cryptanalysis",
+    "Acronym": "",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Embedded  Sensor  Networks Workshop",
+    "Acronym": "Emnets",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Enabling  Grids  for E-Science European  Conference",
+    "Acronym": "EGEE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ENVI and  IDL Data  Analysis  and  Visualization  Symposium",
+    "Acronym": "VISualize",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ERATO Conference on Quantum Information  Science",
+    "Acronym": "EQIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Euro Virtual  Reality",
+    "Acronym": "Euro VR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "EuroConference on Combinatorics,  Graph  Theory and  Applications",
+    "Acronym": "EUroComb",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Euromicro Conference on Software Engineering  and  Advanced Applications",
+    "Acronym": "SEAA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Euromicro International  Conference on Parallel,  Distributed  and  Network Based  Processing",
+    "Acronym": "PDP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Academy of Design  conferences",
+    "Acronym": "EAD",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Chapter on Combinatorial  Optimization",
+    "Acronym": "ECCO",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Computing Conference",
+    "Acronym": "ECC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Conference of Information  Warfare",
+    "Acronym": "ECIW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Conference on Ambient  Intelligence",
+    "Acronym": "AmI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Conference on Computational  Learning  Theory (Now in  COLT)",
+    "Acronym": "EuroCOLT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Conference on e-Government",
+    "Acronym": "ECEG",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Conference on Information  Management  and  Evaluation",
+    "Acronym": "ECIME",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Conference on Operations  Research",
+    "Acronym": "EURO",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Conference on Research  Methodology  for Business  and  Management  Studies",
+    "Acronym": "ECRM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Conference on Software Maintenance  and  Reengineering",
+    "Acronym": "CSMR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Conference on Symbolic and  Quantitative  Approaches  to Reasoning  with Uncertainty",
+    "Acronym": "ECSQARU",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Conference on Universal  Multiservice  Networks",
+    "Acronym": "ECUMN",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Congress  on Intelligent  Techniques  and  Soft Computing",
+    "Acronym": "EUFIT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Institute  for Computer Anti-Virus  Research  EICAR Conference",
+    "Acronym": "EICAR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Lisp  Workshop",
+    "Acronym": "ELW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  PVM/MPI Users'  Group Conference",
+    "Acronym": "EuroPVM/MPI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Symposium  on Gender  and  ICT",
+    "Acronym": "ESGICT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Workshop  on Advanced Mobile  Robots",
+    "Acronym": "EuroBot",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Workshop  on Computational  Geometry",
+    "Acronym": "EuroCG",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Workshop  on Modelling  Autonomous  Agents  in  a  Multi-Agent  World",
+    "Acronym": "MAAMAW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Workshop  on Multi-Agent  Systems",
+    "Acronym": "EUMAS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European  Workshop  on Security and  Privacy in  Ad -Hoc and  Sensor  Networks",
+    "Acronym": "ESAS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "European-Japanese  Conference on Information  Modelling  and  Knowledge  Bases",
+    "Acronym": "EJC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Exploring Modelling  Methods  in  Systems  Analysis  and  Design",
+    "Acronym": "EMMSAD",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Extreme Markup Languages",
+    "Acronym": "Extreme",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Far East  Workshop  on Future DB Systems",
+    "Acronym": "FEWFDB",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Finite  Differences-Finite  Elements-Finite  Volumes-Boundary  Elements",
+    "Acronym": "F-and-B",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "FIRA Robot World Congress",
+    "Acronym": "FIRA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Flexible  Query-Answering  Systems",
+    "Acronym": "FQAS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Florida  Artificial  Intelligence  Research  Society Conference",
+    "Acronym": "FlAIRS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Formal  and  Computational  Cryptography",
+    "Acronym": "FCC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Formal  Methods  in  Software Engineering  and  Defence  Systems  Workshop",
+    "Acronym": "FMSEDS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Formal  Methods  Pacific",
+    "Acronym": "FMP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Forum on Specification,  Verification  and  Design  Languages",
+    "Acronym": "FDL",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Foundations  of Aspect-Oriented  Languages",
+    "Acronym": "FOAL",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Foundations  of Software Science  and  Computational  Structures",
+    "Acronym": "FOSSACS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Franco-Canadian  Workshop  on Combinatorial  Algorithms",
+    "Acronym": "ComAI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "French Journées  de  Géométrie Algorithmique",
+    "Acronym": "JGA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "French Speaking  Conference on the Extraction and  Management  of Knowledge",
+    "Acronym": "EGC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Functional  and  Declarative  Programming in  Education",
+    "Acronym": "FDPE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Game  Developers  Conference",
+    "Acronym": "GDC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Geometry Festival:  An international  workshop  on Discrete  Geometry and  Rigidity",
+    "Acronym": "GeomFest",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "GeoVisualization  and  Information  Visualization",
+    "Acronym": "GeoViz",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "German  Conference on Artificial  Intelligence",
+    "Acronym": "KI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "GI International  Conference on Detection  of Intrusions  and  Malware,  and  Vulnerability  Assessment",
+    "Acronym": "DIMVA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "GIS Planet  Conference",
+    "Acronym": "GISPlanet",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Global  Chinese  Conference on Computers in  Education",
+    "Acronym": "GCCCE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Grace Hopper Celebration  of Women  in  Computing",
+    "Acronym": "GHC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Haskell  Workshop",
+    "Acronym": "HASKELL",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Health  Informatics  Conference",
+    "Acronym": "HIC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Hellenic  Conference on Artificial  Intelligence",
+    "Acronym": "SETN",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "High  Performance Computing Symposium  Canada",
+    "Acronym": "HPCS-Canada",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "High-Performance Grid Computing Workshop  (part of IPDPS Conference)",
+    "Acronym": "HPGrid",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Human  Factors and  Ergonomics Conference (Human  Factors and  Ergonomics Society of Australia)",
+    "Acronym": "HFESA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Human  System Interaction",
+    "Acronym": "HIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Hungarian  National  Conference on Agent Based  Computation",
+    "Acronym": "HUNABC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Hydraulics  in  Civil Engineering",
+    "Acronym": "",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IAVoSS Workshop  On Trustworthy Elections",
+    "Acronym": "WOTE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Iberian  Conference on Pattern Recognition  and  Image  Analysis",
+    "Acronym": "IBPRIA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IberoAmerican  Congress  on Pattern Recognition",
+    "Acronym": "CIARP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "ICEE- ICEER - International  Conference for Engineering  Education  and  Research",
+    "Acronym": "",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Automatic Speech  Recognition  and  Understanding  Workshop",
+    "Acronym": "ASRU",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Bioinformatics  and  Bioengineering",
+    "Acronym": "BIBE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Conference on Electronic Commerce Technology (merger of CEC and  EEE)",
+    "Acronym": "CEC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Conference on Mass  Storage Systems  and  Technologies",
+    "Acronym": "MSST",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Conference on Ultra Wideband  Systems  and  Technologies",
+    "Acronym": "ICUWB",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Conference on Wireless  Communication  and  Sensor  Networks",
+    "Acronym": "WCSN",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE European  Conference on Web  Services",
+    "Acronym": "ECOWS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Global  Information  Infrastructure Symposium",
+    "Acronym": "GIIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Global  Internet  Symposium",
+    "Acronym": "GI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Information  Theory Workshop  on Detection, Estimation,  Classification  and  Imaging",
+    "Acronym": "DECI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Augmented  Reality  Toolkit  Workshop",
+    "Acronym": "IARTW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on 3D Systems  Integration  (combines  ASET & 3D)",
+    "Acronym": "IEEE 3D IC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Adaptive  and  Intelligent  Systems",
+    "Acronym": "ICAIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Automatic Face  and  Gesture  Recognition",
+    "Acronym": "FG",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Cognitive Informatics",
+    "Acronym": "ICCI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Computational  Cybernetics",
+    "Acronym": "ICCC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Computational  Intelligence  for Measurement  Systems  and  Applications",
+    "Acronym": "CIMSA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Computer and  Information  Technology",
+    "Acronym": "CIT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on COTS-Based  Software Systems",
+    "Acronym": "ICCBSS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Cybernetics and  Intelligent  Systems",
+    "Acronym": "CIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Digital  EcoSystems and  Technologies  Conference",
+    "Acronym": "IEEE DEST",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Enterprise  Computing, E-Commerce and  E-Services",
+    "Acronym": "EEE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Global  Software Engineering",
+    "Acronym": "ICGSE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Granular  Computing",
+    "Acronym": "GrC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Industrial  and  Information  Systems",
+    "Acronym": "ICIIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Information  and  Automation",
+    "Acronym": "IEEE ICIA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Information  Integration  and  Reuse",
+    "Acronym": "IEEE IRI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Intelligence  and  Security Informatics",
+    "Acronym": "ISI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Intelligence  for Homeland  Security and  Personal  Safety",
+    "Acronym": "CIHSPS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Intelligent  Computer Communication  and  Processing",
+    "Acronym": "ICCP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Intelligent  Systems",
+    "Acronym": "IEEE IS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Parallel  Processing  Workshops",
+    "Acronym": "WoPP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Peer to Peer Computing",
+    "Acronym": "P2P",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Service-Oriented  Computing Applications",
+    "Acronym": "SOCA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Signal  Processing  and  Communication",
+    "Acronym": "ICSPC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Telecommunications",
+    "Acronym": "ICT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Conference on Wireless  and  Mobile  Computing, Networking and  Communications",
+    "Acronym": "WiMob",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Geoscience  and  Remote  Sensing  Symposium",
+    "Acronym": "IGARSS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  High  Level Design  Validation  and  Test  Workshop",
+    "Acronym": "HLDVT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Multioptic  Conference",
+    "Acronym": "INMIC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  On-Line  Testing  Symposium",
+    "Acronym": "IOLTS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Adaptive  Dynamic Programming and  Reinforcement  Learning",
+    "Acronym": "IEEE ADPRL",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Multimedia",
+    "Acronym": "ISM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Object-Oriented Real-Time  Distributed  Computing",
+    "Acronym": "ISORC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Performance Analysis  of Systems  and  Software",
+    "Acronym": "ISPASS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Security in  Networks and  Distributed  Systems",
+    "Acronym": "SSNDS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Symposium  on Web  Systems  Evolution",
+    "Acronym": "WSE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Working Conference on Mining  Software Repositories",
+    "Acronym": "MSR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Workshop  on Cellular  Nanoscale  Networks and  Applications",
+    "Acronym": "CNNA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Workshop  on Databases  for Next-Generation  Researchers",
+    "Acronym": "SWOD",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Workshop  on Future Trends  of Distributed  Computing Systems",
+    "Acronym": "FTDCS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Workshop  on Neural  Networks for Signal  Processing",
+    "Acronym": "NNSP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Workshop  on Source Code Analysis  and  Manipulation",
+    "Acronym": "SCAM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE International  Workshop  on the Value  of Security through Collaboration",
+    "Acronym": "SECOVAL",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Knowledge  and  Data  Engineering  Exchange Workshop",
+    "Acronym": "KDEEW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Latin-American  Conference on Communications",
+    "Acronym": "latincom",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Software Engineering  Workshop",
+    "Acronym": "SEW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Swarm Intelligence  Symposium",
+    "Acronym": "IEEE SIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Advanced Management  of Information  for Globalized  Enterprises",
+    "Acronym": "AMIGE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computational  Intelligence  and  Data  Mining",
+    "Acronym": "IEEE CIDM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computational  Intelligence  and  Games",
+    "Acronym": "CIG",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computational  Intelligence  for Financial  Engineering",
+    "Acronym": "IEEE CIFEr",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computational  intelligence  for Image  Processing",
+    "Acronym": "IEEE CIIP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computational  intelligence  for Multimedia  Signal  and  Vision  Processing",
+    "Acronym": "IEEE CIMSVP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computational  Intelligence  for Security and  Defence  Applications",
+    "Acronym": "IEEE CISDA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computational  Intelligence  in  Bioinformatics  and  Computational  Biology",
+    "Acronym": "IEEE CIBCB",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computational  Intelligence  in  Control and  Automation",
+    "Acronym": "IEEE CICA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computational  Intelligence  in  Cyber Security",
+    "Acronym": "IEEE CICS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computational  Intelligence  in  Image  and  Signal  Processing",
+    "Acronym": "CIISP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computational  Intelligence  in  Multi-Criteria  Decision-Making",
+    "Acronym": "IEEE MCDM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computational  Intelligence  in  Scheduling",
+    "Acronym": "IEEE CI-Sched",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Computer Arithmetic",
+    "Acronym": "ARITH",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Intelligent  Agents",
+    "Acronym": "IEEE IA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Rapid  Prototyping",
+    "Acronym": "RSP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Symposium  on Visual  Analytics  Science  and  Technology",
+    "Acronym": "IEEE VAST",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Systems  and  Information  Engineering  Design  Symposium",
+    "Acronym": "SIEDS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Systems  Conference",
+    "Acronym": "SysCon",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Tencon (IEEE Region  10 Conference)",
+    "Acronym": "Tencon",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Advances  in  Techniques  for Analysis  of Remotely  Sensed  Data",
+    "Acronym": "WARDS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Computational  Intelligence  for Visual  Intelligence",
+    "Acronym": "IEEE CIVI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Computational  Intelligence  in  Aerospace  Applications",
+    "Acronym": "IEEE CIAA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Computational  Intelligence  in  Biometrics:  Theory, Algorithms,  and  Applications",
+    "Acronym": "IEEE CIB",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Computational  Intelligence  in  Vehicles  and  Vehicular  Systems",
+    "Acronym": "IEEE CIWS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Computational  Intelligence  in  Virtual  Environments",
+    "Acronym": "IEEE CIVE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Evolvable  and  Adaptive  Hardware",
+    "Acronym": "IEEE WEAH",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Evolving and  Self-Developing  Intelligent  Systems",
+    "Acronym": "IEEE ESDIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on High  Performance Switching  and  Routing",
+    "Acronym": "HPSR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Hybrid Intelligent  Models  and  Applications",
+    "Acronym": "IEEE HIMA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Memetic Algorithms",
+    "Acronym": "IEEE WOMA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  On Mobile  Computing Systems  And Applications",
+    "Acronym": "WMCSA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Organic Computing",
+    "Acronym": "IEEE OC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Robotic Intelligence  in  Informationally  Structured Space",
+    "Acronym": "IEEE RiiSS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Speech  Coding",
+    "Acronym": "SCW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE Workshop  on Wireless  Mesh  Networks",
+    "Acronym": "WiMesh",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE WoWMoM Workshop  on Hot Topics  in  Mesh  Networking",
+    "Acronym": "HotMESH",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE/ACIS International  Conference on Computer and  Information  Science",
+    "Acronym": "ICIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE/IFIP International  Conference on Embedded  and  Ubiquitous  Computing",
+    "Acronym": "EUC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE/WIC/ACM International  Conference on Intelligent  Agent Technology",
+    "Acronym": "IAT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE/WIC/ACM international  Conference on Web  Intelligence  and  Intelligent  Agent Technology",
+    "Acronym": "WI-IAT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IEEE-RAS International  Conference on Humanoid  Robots",
+    "Acronym": "Humanoids",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IFAC Conference on System Structure and  Control",
+    "Acronym": "SSC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IFAC Symposium  on Fault  Detection, Supervision  and  Safety of Technical  Processes",
+    "Acronym": "SAFEProcess",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IFIP Conference on Biologically  Inspired  Collaborative  Computing",
+    "Acronym": "BICC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IFIP Congress  (Information  Processing)",
+    "Acronym": "Information  Processing",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IFIP International  Conference on Broadband  Communications",
+    "Acronym": "BC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IFIP International  Conference on Theoretical  Computer Science",
+    "Acronym": "IFIP TCS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IFIP Working Conference on Visual  Database  Systems",
+    "Acronym": "VDbS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IFIP Working Conferences  on Virtual  Enterprises",
+    "Acronym": "PRO-VE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IFIP International  Conference on Network and  Parallel  Computing",
+    "Acronym": "NPC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "IGIP - international  Society for Engineering  Education  Annual  Meeting",
+    "Acronym": "",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Industrial  Simulation  Conference",
+    "Acronym": "ISC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Informatics  Education  Europe",
+    "Acronym": "IEE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Information  Integration  and  Web-based  Applications  and  Services",
+    "Acronym": "IIWAS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Information  Security Symposium",
+    "Acronym": "CERIAS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Information  Security Workshop",
+    "Acronym": "ISW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Information  Systems  Research  Seminar  in  Scandinavia",
+    "Acronym": "IRIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Information  Visualisation  Theory and  Practice",
+    "Acronym": "InfVis",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Information  Visualization  Evaluation",
+    "Acronym": "IVE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Information  Visualization  in  Biomedical  Informatics",
+    "Acronym": "IVBI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Informing  Science  and  Information  Technology Education",
+    "Acronym": "InSITE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Innovative  Internet  Computer Systems",
+    "Acronym": "IICS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Institute  for Small  Business  and  Entrepreneurship  Annual  Conference",
+    "Acronym": "ISBE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Int. Workshop  on Formal  Methods  for Industrial  Critical Systems",
+    "Acronym": "FMICS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Int. Workshop  on Multi-Media  Data  Base  Management  Systems",
+    "Acronym": "IW-MMDBMS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Integrated  Data  Environments  Australia  Workshop",
+    "Acronym": "IDEAW",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Intelligence  Tools,  Data  Mining,  Visualization",
+    "Acronym": "IDV",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Intelligent  Multimedia,  Video  and  Speech  Processing  Symposium",
+    "Acronym": "MVSP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "Interaction",
+    "Acronym": "Interaction",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  and  Interdisciplinary  Conference on Modelling  and  Using  Context",
+    "Acronym": "CONTEXT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Atlantic  Web  Intelligence  Conference",
+    "Acronym": "AWIC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Colloquium  on Data  Sciences,  Knowledge  Discovery and  Business  Intelligence",
+    "Acronym": "DSKDB",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Command and  Control Research  and  Technology Symposium",
+    "Acronym": "ICCRTS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Computer Science  Symposium  in  Russia",
+    "Acronym": "CSR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference Computer Graphics,  Imaging  and  Visualization",
+    "Acronym": "CGIV",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference Formal  Concept Analysis  Conference",
+    "Acronym": "ICFCA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference Imaging  Science,  Systems  and  Technology",
+    "Acronym": "CISST",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference of Broadband  Communication,  Information  Technology and  Biomedical  Applications",
+    "Acronym": "broadcom",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference of Z and  B Users",
+    "Acronym": "ZB",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference of Z Users",
+    "Acronym": "ZUSER",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on 3G Mobile  Communication  Technologies",
+    "Acronym": "3G",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Adaptive  and  Natural  Computing Algorithms",
+    "Acronym": "ICANNGA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Advanced Information  Management",
+    "Acronym": "IMS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Advanced Language  Processing  and  Web  Information  Technology",
+    "Acronym": "ALPIT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Advances  in  Computer-Human Interactions",
+    "Acronym": "ACHI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Advances  in  Infrastructure for Electronic Business,  Science,  and  Education  on the Internet",
+    "Acronym": "SSGRR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Advances  in  Pattern Recognition  and  Digital  Techniques",
+    "Acronym": "ICAPRDT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Affective Computing and  Intelligent",
+    "Acronym": "ACII",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Agents  and  Artificial  Intelligence",
+    "Acronym": "ICAART",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Algorithms  and  Complexity (was  Italian  Conference )",
+    "Acronym": "CIAC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Artificial  Intelligence",
+    "Acronym": "IC-AI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Artificial  Intelligence  and  Law",
+    "Acronym": "ICAIL",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Artificial  Intelligence  and  Pattern Recognition",
+    "Acronym": "AIPR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Artificial  Intelligence  and  Soft Computing",
+    "Acronym": "ICAISC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Artificial  Intelligence  in  Science  and  Technology",
+    "Acronym": "AISAT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Arts and  Technology",
+    "Acronym": "ArtsIT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Automation,  Robotics  and  Control Systems",
+    "Acronym": "ARCS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Autonomic and  Trusted Computing",
+    "Acronym": "ATC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on CAD/CAM, Robotics  and  Factories  of the Future",
+    "Acronym": "RFF",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Case-Based  Reasoning  Research  and  Development",
+    "Acronym": "ICCBR",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Chinese  Computing",
+    "Acronym": "ICCC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Cloud Computing",
+    "Acronym": "CloudCom",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Collaborative  Computing: Networks, Applications  and  Worksharing",
+    "Acronym": "CollaborateCom",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Communication  System Software and  Middleware",
+    "Acronym": "COMSWARE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Communications  in  Computing",
+    "Acronym": "CIC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Complex Systems",
+    "Acronym": "CxS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Complex, Intelligent  and  Software Intensive  Systems",
+    "Acronym": "CISIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computability  and  Complexity in  Analysis",
+    "Acronym": "CCA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computational  Collective  Intelligence:  Semantic  Web, Social  Networks and  Multiagent  Systems",
+    "Acronym": "ICCCI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computational  Engineering  Science",
+    "Acronym": "ICES",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computational  Intelligence  and  Multimedia",
+    "Acronym": "ICCIMA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computational  Intelligence  and  Security",
+    "Acronym": "CIS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computational  Intelligence  and  Software Engineering",
+    "Acronym": "CISE",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computational  Intelligence  for Modelling,  Control and  Automation",
+    "Acronym": "CIMCA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computational  Intelligence,  Robotics  and  Autonomous  Systems",
+    "Acronym": "CIRAS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computational  Science  and  Applications",
+    "Acronym": "ICCSA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computational  Semiotics  for Games  and  New Media",
+    "Acronym": "Cosign",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computer and  Information  Technology",
+    "Acronym": "ICCIT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computer Graphics,  Virtual  Reality,  Visualisation  and  Interaction  in  Africa",
+    "Acronym": "AFRIGRAPH",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computer Information  Systems  and  Industrial  Management  Applications",
+    "Acronym": "CISIM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computer Theory and  Applications",
+    "Acronym": "ICCTA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computer Vision  Systems",
+    "Acronym": "ICVS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computers and  their Applications",
+    "Acronym": "CATA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computers Helping  People  with Special  Needs",
+    "Acronym": "ICCHP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Computing and  Informatics",
+    "Acronym": "ICOCI",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Construction Engineering  and  Management",
+    "Acronym": "ICCEM",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Construction in  Developing  Countries",
+    "Acronym": "ICCIDC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Convergence and  Hybrid Information  Technology",
+    "Acronym": "ICHIT",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Creating Connecting and  Collaborating  through Computing",
+    "Acronym": "C5",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Cybercrime Forensics  Education  and  Training",
+    "Acronym": "CFET",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Database  Systems  for Advanced Applications",
+    "Acronym": "DSAA",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Declarative  Programming and  Knowledge  Management",
+    "Acronym": "INAP",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Dependability  of Computer Systems",
+    "Acronym": "DEPCoS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Dependable,  Autonomic and  Secure Computing",
+    "Acronym": "DASC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Digital  Content, Multimedia  Technology and  its  Applications",
+    "Acronym": "IDC",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Digital  Society",
+    "Acronym": "ICDS",
+    "Rank": "C"
+  },
+  {
+    "Standard Name": "International  Conference on Discrete  Geometry for Computer Imagery",
+    "Acronym": "DGCI",
+    "Rank": "C"
+  }
+]
