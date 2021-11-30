@@ -25,5 +25,3 @@ Paper Ranker is a web application that allows users to search for papers in dblp
   ```
 Open http://127.0.0.1:5000/
 
-# paper-ranker
-# paper-ranker
