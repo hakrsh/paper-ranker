@@ -11,13 +11,11 @@ def build_rank(file_name):
         for conf in json.load(f):
             rank = conf['Rank']
             conf_id = conf['Acronym'].lower()
-            print(f'Inserting {conf_id} with rank {rank}')
             r.set(conf_id, rank)
 
 def get_rank(conf_name):
     conf_name = conf_name.lower()
     rank = r.get(conf_name)
-    print(f'Rank of {conf_name} is {rank}')
     if rank:
         return rank.decode('utf-8')
     else:
