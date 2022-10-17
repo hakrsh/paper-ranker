@@ -1,17 +1,8 @@
-from flask import Flask, render_template, request, url_for,redirect
-from flask_paginate import Pagination, get_page_args
-from datetime import datetime
-from db import get_papers, insert_paper_new_design
+from flask import Flask, render_template, request, redirect
+from flask_paginate import Pagination
+from db import get_papers
 from rank_mapper import insert_conf_ranks
-import os
 import time
-import sys
-
-# ------------------Disable hash randomization------------------
-hashseed = os.getenv('PYTHONHASHSEED')
-if not hashseed:
-    os.environ['PYTHONHASHSEED'] = '0'
-    os.execv(sys.executable, [sys.executable] + sys.argv)
 
 # ----------------------Flask App----------------------------------
 
