@@ -19,7 +19,7 @@ def get_rank(conf_name):
     rank = r.get(conf_name)
     print(f'Rank of {conf_name} is {rank}')
     if rank:
-        return rank
+        return rank.decode('utf-8')
     else:
         return 'NA'
     
