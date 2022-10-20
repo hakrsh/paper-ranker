@@ -14,7 +14,7 @@ def get_posts(posts, offset=0, per_page=10):
     return posts[offset: offset + per_page]
 
 
-insert_conf_ranks()
+# insert_conf_ranks()
 
 posts = []
 time_taken = 0
