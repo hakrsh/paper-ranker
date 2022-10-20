@@ -5,11 +5,7 @@ import json
 import logging
 logging.basicConfig(level=logging.INFO)
 
-r = redis.Redis(host='redis-17459.c264.ap-south-1-1.ec2.cloud.redislabs.com',port=17459, password='w7R5evprtUnVOj9J9XZihOOvsVjpMEk7')
-if r.ping():
-    logging.info('Connected to Redis')
-else:
-    logging.error('Redis connection failed')
+r = redis.Redis('localhost')
     
 def quick_search(key, hits=10):
     paper_list = fetch_dblp(key, hits)

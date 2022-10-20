@@ -39,8 +39,7 @@ def search():
         ranks_order = ['A*', 'A', 'B', 'C', 'NA']
         end = time.time()
         time_taken = end - start
-        if len(posts) >0:
-            posts.sort(key = lambda ele: ranks_order.index(ele["rank"]))
+        posts.sort(key=lambda x: ranks_order.index(x['rank']))
     # page, per_page, offset = get_page_args()
     if len(posts) == 0:
         return redirect('/')
