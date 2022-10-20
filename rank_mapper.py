@@ -3,7 +3,7 @@ import json
 import time
 import redis 
 
-r = redis.Redis(host='localhost', port=6379, db=0)
+r = redis.Redis(host='redis-17459.c264.ap-south-1-1.ec2.cloud.redislabs.com',port=17459, password='w7R5evprtUnVOj9J9XZihOOvsVjpMEk7')
 
 rank_map = dict()
 def build_rank(file_name):
