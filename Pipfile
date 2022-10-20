@@ -8,6 +8,7 @@ flask = "*"
 flask-paginate = "*"
 flask-mongoengine = "*"
 redis = "*"
+gunicorn = "*"
 
 [dev-packages]
 
