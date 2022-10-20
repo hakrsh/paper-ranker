@@ -3,6 +3,9 @@ from flask_paginate import Pagination
 from db import get_papers
 from rank_mapper import insert_conf_ranks
 import time
+import threading
+import logging
+logging.basicConfig(level=logging.INFO)
 
 # ----------------------Flask App----------------------------------
 
@@ -13,8 +16,8 @@ posts = []
 def get_posts(posts, offset=0, per_page=10):
     return posts[offset: offset + per_page]
 
-
-# insert_conf_ranks()
+logging.info('Starting Rank Insertion Thread')
+threading.Thread(target=insert_conf_ranks).start()
 
 posts = []
 time_taken = 0

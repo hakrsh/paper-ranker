@@ -31,7 +31,6 @@ def get_rank(conf_name):
 def insert_conf_ranks():
     if r.get('conf_ranks') == None:
         files = ['Ranks/rank1.json', 'Ranks/rank2.json', 'Ranks/rank3.json']
-        print('Inserting Conference Ranks')
         start = time.time()
         threads = []
         for file_name in files:
