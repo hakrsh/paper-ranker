@@ -24,7 +24,12 @@ def depth_search(key, hits=30):
 def get_papers(key, hits=30):
     if r.get(key):
         print('Cache hit!')
-        return json.loads(r.get(key))
+        try:
+            return json.loads(r.get(key))
+        except:
+            logging.info('Error in fetching data from cache')
+            r.delete(key)
+            return quick_search(key, hits)
     else:
         print('Cache miss!')
         threading.Thread(target=depth_search, args=(key, hits)).start()
