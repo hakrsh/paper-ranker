@@ -5,7 +5,7 @@ import redis
 import logging
 logging.basicConfig(level=logging.INFO)
 
-r = redis.Redis('localhost')
+r = redis.Redis(host='redis-17459.c264.ap-south-1-1.ec2.cloud.redislabs.com', port=17459, password='w7R5evprtUnVOj9J9XZihOOvsVjpMEk7')
 
 rank_map = dict()
 def build_rank(file_name):

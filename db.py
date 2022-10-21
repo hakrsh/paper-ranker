@@ -5,7 +5,7 @@ import json
 import logging
 logging.basicConfig(level=logging.INFO)
 
-r = redis.Redis('localhost')
+r = redis.Redis(host='redis-17459.c264.ap-south-1-1.ec2.cloud.redislabs.com', port=17459, password='w7R5evprtUnVOj9J9XZihOOvsVjpMEk7')
     
 def quick_search(key, hits=10):
     paper_list = fetch_dblp(key, hits)
