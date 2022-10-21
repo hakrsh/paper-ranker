@@ -6,6 +6,8 @@ Paper Ranker is a web application that allows users to search for papers in dblp
   * `sudo apt install python3-pip`
 * pipenv
   * `pip3 install --user pipenv`
+* redis
+  * `sudo apt install redis`
 
 ## Basic Build Instructions
 
