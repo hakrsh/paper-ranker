@@ -7,8 +7,10 @@ name = "pypi"
 flask = "*"
 flask-paginate = "*"
 flask-mongoengine = "*"
+redis = "*"
+gunicorn = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.8"
+python_version = "3"

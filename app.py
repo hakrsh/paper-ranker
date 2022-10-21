@@ -1,17 +1,11 @@
-from flask import Flask, render_template, request, url_for,redirect
-from flask_paginate import Pagination, get_page_args
-from datetime import datetime
-from db import get_papers, insert_paper_new_design
+from flask import Flask, render_template, request, redirect
+from flask_paginate import Pagination
+from db import get_papers
 from rank_mapper import insert_conf_ranks
-import os
 import time
-import sys
-
-# ------------------Disable hash randomization------------------
-hashseed = os.getenv('PYTHONHASHSEED')
-if not hashseed:
-    os.environ['PYTHONHASHSEED'] = '0'
-    os.execv(sys.executable, [sys.executable] + sys.argv)
+import threading
+import logging
+logging.basicConfig(level=logging.INFO)
 
 # ----------------------Flask App----------------------------------
 
@@ -22,8 +16,8 @@ posts = []
 def get_posts(posts, offset=0, per_page=10):
     return posts[offset: offset + per_page]
 
-
-insert_conf_ranks()
+logging.info('Starting Rank Insertion Thread')
+threading.Thread(target=insert_conf_ranks).start()
 
 posts = []
 time_taken = 0
@@ -45,8 +39,7 @@ def search():
         ranks_order = ['A*', 'A', 'B', 'C', 'NA']
         end = time.time()
         time_taken = end - start
-        if len(posts) >0:
-            posts.sort(key = lambda ele: ranks_order.index(ele["rank"]))
+        posts.sort(key=lambda x: ranks_order.index(x['rank']))
     # page, per_page, offset = get_page_args()
     if len(posts) == 0:
         return redirect('/')
@@ -67,4 +60,4 @@ def search():
                            count = len(posts)
                            )
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000)
