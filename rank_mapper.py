@@ -30,7 +30,6 @@ def insert_conf_ranks():
         start = time.time()
         threads = []
         for file_name in files:
-            build_rank(file_name)
             threads.append(threading.Thread(target=build_rank, args=(file_name,)))
             threads[-1].start()
         for thread in threads:

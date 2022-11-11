@@ -29,6 +29,7 @@ def get_papers(key, hits=30):
         except:
             logging.info('Error in fetching data from cache')
             r.delete(key)
+            threading.Thread(target=depth_search, args=(key, hits)).start()
             return quick_search(key, hits)
     else:
         print('Cache miss!')
